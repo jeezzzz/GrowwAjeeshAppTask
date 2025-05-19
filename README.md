@@ -1,6 +1,7 @@
 # GrowwAjeeshAppTask
 
 A modern Android app for exploring stocks, market news, and financial data using the [Alpha Vantage API](https://www.alphavantage.co/support/#api-key).
+APK Link: https://drive.google.com/file/d/1_4qRNAEIrOhIOy82zfvLnRKn1IM48bsW/view?usp=drive_link
 
 
 ## 🚀 Installation
